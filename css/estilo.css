@@ -138,3 +138,14 @@ h4{
     font-size: 1em;
     margin-bottom: 10px;
 }
+
+img{
+    margin: 100px auto;
+    width: 200px;
+    height: 200px;
+}
+
+p >a{
+    margin: auto;
+    color: lightsalmon;
+}
